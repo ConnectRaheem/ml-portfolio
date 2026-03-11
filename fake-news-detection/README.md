@@ -20,6 +20,17 @@
 | `fake_news_detection.ipynb` | Full notebook — preprocessing, model, evaluation |
 | `images/fakenews_lstm_dashboard.png` | Results dashboard |
 
+## 📥 Dataset
+
+Dataset is too large to upload on GitHub. Download it free from Kaggle:
+
+🔗 [Click here to download the dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+
+**After downloading:**
+1. Extract the ZIP file
+2. You will get `True.csv` and `Fake.csv`
+3. Place both files in the same folder as the notebook
+4. Run the notebook
 ---
 
 ## ⚙️ LSTM Pipeline
