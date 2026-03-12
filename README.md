@@ -117,7 +117,7 @@ Tools          →  Jupyter, Git, GitHub, VS Code
 
 ## 📬 Hire Me on Upwork
 
-[![Hire on Upwork](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID)
+[![Hire on Upwork](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~[YOUR_PROFILE_ID](https://www.upwork.com/freelancers/~01d8876f2f7075b738?viewMode=1))
 
 ---
 *⭐ If you find these projects useful, consider giving this repo a star!*
